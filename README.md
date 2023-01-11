@@ -10,10 +10,11 @@
   </a> 
 </p>
 
-<div align="center"">
+<div align="center" style="display: flex; flex-flow:column nowrap;">
   <a href="https://dianacruz.pro/" title="dianacruz.pro">
-    <img style="display:block" height="150px" src="portfolio.png">
+    <img height="150px" src="portfolio.png">
   </a>
+  <br>
   <img src="name.png">
 </div>
 
@@ -25,7 +26,7 @@ I'm <strong style="color:#107EAB;">Frontend Developer</strong>, enjoy doing the 
 <h2 align="center">
   <img height="50px" src="skills.png">
 </h2>
-<div style="display: flex; flex-flow:row wrap; gap:1rem; justify-content:center;">
+<div align="center" style="display: flex; flex-flow:row wrap; gap:1rem; justify-content:center;">
   <img align="center" alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
   <img align="center" alt="bootstrap" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img align="center" alt="css3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
@@ -49,8 +50,6 @@ I'm <strong style="color:#107EAB;">Frontend Developer</strong>, enjoy doing the 
 <p align="center">
   <a href="https://github.com/dianacruzpro/DianaCruz-Portfolio" title="Portfolio Website | Diana Cruz">
       <img width="45%" src="website-portfolio.webp">
-  </a>
-  <a href="https://github.com/koalba/DisneyPlus_Copycat" title="Portfolio Website | Diana Cruz">
       <img width="45%" src="website-portfolio2.png">
   </a>
 </p>
@@ -60,5 +59,3 @@ I'm <strong style="color:#107EAB;">Frontend Developer</strong>, enjoy doing the 
       <img width="45%" src="tapiceria2.png"></img>
   </a>
 </p>
-
-![Snake animation](https://github.com/dianacruzpro/dianacruzpro/blob/output/github-contribution-grid-snake.svg)
