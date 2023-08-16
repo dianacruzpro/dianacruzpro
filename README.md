@@ -11,7 +11,7 @@
 </p>
 
 <div align="center" style="display: flex; flex-flow:column nowrap;">
-  <a href="https://dianacruz.pro/" title="dianacruz.pro">
+  <a href="https://dianacruzpro.netlify.app/" title="Diana Cruz's Portfolio">
     <img height="150px" src="portfolio.png">
   </a>
   <br>
