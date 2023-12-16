@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.instagram.com/coding_girl503/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://api.whatsapp.com/send?phone=+50364512514&text=%C2%A1Hola%20Diana!%20%F0%9F%91%8B%20%20Es%20un%20placer%20saludarte.%20Estoy%20muy%20interesado/a%20en%20platicar%20contigo%20sobre%20tus%20habilidades/experiencia%20y%20tu%20disponibilidad%20para%20colaborar%20en%20un%20proyecto." target="_blank">
+    <img src="https://img.shields.io/badge/-whatsapp-199337?style=for-the-badge&logo=whatsapp&logoColor=#ffffff%22%3E">
   </a>
   <a href="mailto:saravcruz1501@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
