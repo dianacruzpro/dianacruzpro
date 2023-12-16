@@ -48,13 +48,13 @@ I'm <strong style="color:#107EAB;">Frontend Developer</strong>, enjoy doing the 
     <img height="50px" src="lastprojects.png">
 </h2>
 <p align="center">
-  <a href="https://github.com/dianacruzpro/DianaCruz-Portfolio" title="Portfolio Website | Diana Cruz">
+  <a href="https://github.com/dianadev/DianaCruz-Portfolio" title="Portfolio Website | Diana Cruz">
       <img width="45%" src="website-portfolio.webp">
       <img width="45%" src="website-portfolio2.png">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/dianacruzpro/SitioWeb-Tapiceria" title="Upholstery WebSite | Diana Cruz">
+  <a href="https://github.com/dianadev/SitioWeb-Tapiceria" title="Upholstery WebSite | Diana Cruz">
       <img width="45%" src="tapiceria.webp"></img>
       <img width="45%" src="tapiceria2.png"></img>
   </a>
