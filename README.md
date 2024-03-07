@@ -53,7 +53,9 @@ I'm <strong style="color:#107EAB;">Frontend Developer</strong>, enjoy doing the 
 </p>
 <p align="center">
   <a href="https://github.com/dianacruzpro/SitioWeb-Tapiceria" title="Upholstery WebSite | Diana Cruz">
-      <img width="45%" src="tapiceria.webp"></img>
+      <!-- <img width="45%" src="tapiceria.png"></img> -->
       <img width="45%" src="tapiceria2.png"></img>
+      <img width="45%" src="tapiceria4.png"></img>
+      <img width="45%" src="tapiceria3.png"></img>
   </a>
 </p>
