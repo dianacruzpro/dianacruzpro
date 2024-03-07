@@ -10,12 +10,13 @@
   </a> 
 </p>
 
-<div align="center" style="display: flex; flex-flow:column nowrap;">
+<div align="center" >
   <a href="https://dianacruzpro.netlify.app/" title="Diana Cruz's Portfolio" target="_blank">
-    <img height="150px" src="portfolio.png">
+    <!-- <img height="150px" src="portfolio.png"> -->
+    <img src="./banner.png">
   </a>
   <br>
-  <img src="name.png">
+  <img height="50px" src="name.png">
 </div>
 
 <p style="color:#E9E9E9">Since childhood my taste for technology was notorious and as I introduced myself to the area, I observed that web development is my vocation, in which <strong style="color:#107EAB;"> every day I put my best effort to innovate and update my learning</strong>.</p>
@@ -34,12 +35,9 @@ I'm <strong style="color:#107EAB;">Frontend Developer</strong>, enjoy doing the 
   <img align="center" alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="php"/ width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img align="center" alt="figma" width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> 
   <img align="center" alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-  <img align="center" alt="illustrator" width="40" height="40" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"/> 
-  <img align="center" alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
-  <img align="center" alt="csharp" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="illustrator" width="40" height="40" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"/>
 </div>
 
 <br>
@@ -49,7 +47,7 @@ I'm <strong style="color:#107EAB;">Frontend Developer</strong>, enjoy doing the 
 </h2>
 <p align="center">
   <a href="https://github.com/dianacruzpro/DianaCruz-Portfolio" title="Portfolio Website | Diana Cruz">
-      <img width="45%" src="website-portfolio.webp">
+      <img width="45%" src="website-portfolio.png">
       <img width="45%" src="website-portfolio2.png">
   </a>
 </p>
