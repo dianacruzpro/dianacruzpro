@@ -11,17 +11,33 @@
 </p>
 
 <div align="center" >
-  <a href="https://dianacruzpro.netlify.app/" title="Diana Cruz's Portfolio" target="_blank">
     <!-- <img height="150px" src="portfolio.png"> -->
     <img src="./banner.png">
   </a>
   <br>
-  <img height="50px" src="name.png">
+  <img height="50px" src="name.png"> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px">
 </div>
 
-<p style="color:#E9E9E9">Since childhood my taste for technology was notorious and as I introduced myself to the area, I observed that web development is my vocation, in which <strong style="color:#107EAB;"> every day I put my best effort to innovate and update my learning</strong>.</p>
-<p style="color:#E9E9E9">
-I'm <strong style="color:#107EAB;">Frontend Developer</strong>, enjoy doing the layout and interactivity of web interfaces, optimization, for the good positioning and performance of websites and applications.</p>
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+Hello, I'm **Diana Cruz** 👋, a **Frontend Web Developer** with a passion for creating intuitive, optimized, and functional interfaces. I specialize in combining design and technology to deliver innovative solutions. 🚀
+
+Since 2020, I've been working in web development, primarily focusing on **frontend technologies**, but I also have experience handling backend tasks when necessary. I build **responsive**, **interactive**, and **optimized** web interfaces, ensuring a smooth user experience and high performance. As a **Web Designer**, I create visually appealing layouts with a strong emphasis on **usability** and **accessibility**. Additionally, as a **Power Platform Developer**, I develop automated solutions and business applications using **Power Apps** and **Power Automate**, enhancing productivity and efficiency.
+
+- 🌱 **I'm currently learning:**
+  - **Next.js**
+  - **GraphQL**
+  - **C#**
+
+- 👯 **I'm open to collaborating on open-source projects**.
+
+- ✔ **Feel free to ask me anything, I'm happy to help as long as the ball is in my court!** 😉
+
+- Outside of tech, 📖 I love reading novels, 🏀 I'm a fan of basketball games, 🏐 I enjoy volleyball, 🎵 listening to music while doing almost everything, and 🌴 exploring beautiful places around my country.
+
+- 📫 Reach out to me at: [saravcruz1501@gmail.com](mailto:saravcruz1501@gmail.com)
 
 <br>
 <h2 align="center">
